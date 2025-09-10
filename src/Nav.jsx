@@ -10,6 +10,7 @@ const Nav = () => {
             <ul>
                 <li><Link to="/">Calculate</Link></li>
                 <li><Link to="/form">to the form</Link></li>
+                <li><Link to='/light'>ot the light</Link></li>
             </ul>
 
         </div>
